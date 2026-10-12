@@ -1,0 +1,4 @@
+datasets>=2.18
+datasketch>=1.6
+presidio-analyzer>=2.2
+tokenizers>=0.15
